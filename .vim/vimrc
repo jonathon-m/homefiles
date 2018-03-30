@@ -1,0 +1,53 @@
+"vimrc
+"Jonathon Martin
+"This is always a work in progress
+
+" allow backspacing over everything in insert mode
+set backspace=indent,eol,start
+
+if has("vms")
+  set nobackup		" do not keep a backup file, use versions instead
+else
+  set backup		" keep a backup file (restore to previous version)
+  set undofile		" keep an undo file (undo changes after closing)
+endif
+
+set history=50		" keep 50 lines of command line history
+set ruler		" show the cursor position all the time
+set showcmd		" display incomplete commands
+set incsearch		" do incremental searching
+
+" Don't use Ex mode, use Q for formatting
+map Q gq
+
+" In many terminal emulators the mouse works just fine, thus enable it.
+if has('mouse')
+  set mouse=a
+endif
+
+" Switch syntax highlighting on, when the terminal has colors
+if &t_Co > 2 || has("gui_running")
+  syntax on
+endif
+
+" always set autoindenting on
+set autoindent		
+
+"Set pretty colours
+colorscheme gruvbox
+set background=dark
+
+"For when I hold the shift key too long
+command! W execute "w"
+command! Q execute "q"
+
+"show line number and char count
+set nu
+set ruler
+
+"set shift J, K to tab switching
+nnoremap J gt
+nnoremap K gT
+
+"I enters insert at start of line
+nmap I 0i
