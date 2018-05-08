@@ -1,4 +1,4 @@
-#files: 936	version: 5.3
+#files: 931	version: 5.3
 
 _comps=(
 '-' '_precommand'
@@ -524,15 +524,10 @@ _comps=(
 'git-buildpackage' '_git-buildpackage'
 'git-cvsserver' '_git'
 'git-flow' '_git-flow'
-'git-hub-browse' '_git-hub-browse'
-'git-hub-shorten-url' '_git-hub-shorten-url'
-'git-info' '_git-info'
 'git-journal' '_git-journal'
 'git-pulls' '_git-pulls'
 'git-receive-pack' '_git'
 'git-shell' '_git'
-'git-submodule-move' '_git-submodule-move'
-'git-submodule-remove' '_git-submodule-remove'
 'git-upload-archive' '_git'
 'git-upload-pack' '_git'
 'git-wtf' '_git-wtf'
@@ -1689,7 +1684,6 @@ autoload -Uz _ack _afew _ag _android _ansible \
             _vagrant _virsh _virtualbox _vnstat _vpnc \
             _wemux _xinput _yaourt _yarn _cdls_popdls_pushdls \
             _dut _mkdcd _noremoteglob _prep _psub \
-            _git-hub-browse _git-hub-shorten-url _git-info _git-submodule-move _git-submodule-remove \
             _brew _brew_cask _SUSEconfig _a2ps _a2utils \
             _aap _absolute_command_paths _acpi _acpitool _acroread \
             _adb _add-zle-hook-widget _add-zsh-hook _alias _aliases \

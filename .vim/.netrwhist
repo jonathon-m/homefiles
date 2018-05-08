@@ -1,7 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/jon-m/.gsutil'
 let g:netrw_dirhist_2='/Users/jon-m/.zprezto'
 let g:netrw_dirhist_3='/Users/jon-m/.kube'
 let g:netrw_dirhist_4='/usr/local/lib/afl'
 let g:netrw_dirhist_5='/Users/jon-m/.vim'
+let g:netrw_dirhist_6='/Users/jon-m/.vim/plugins'
+let g:netrw_dirhist_7='/Users/jon-m/.vim'

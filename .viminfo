@@ -11,217 +11,217 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/save_inp
+~Msle0~/\<char\>
 
 # Last Substitute Search Pattern:
-~MSle0&^
+~MSle0&learning_rate
 
 # Last Substitute String:
-$
+$LEARNING_RATE
 
 # Command Line History (newest to oldest):
-:wq
-|2,0,1522386566,,"wq"
 :q
-|2,0,1522386411,,"q"
+|2,0,1525748317,,"q"
 :w
-|2,0,1522373866,,"w"
-:w\
-|2,0,1522285169,,"w\\"
-:q!
-|2,0,1522233477,,"q!"
-:r !? @@
-|2,0,1522195913,,"r !? @@"
-:r !?@@
-|2,0,1522195896,,"r !?@@"
-:Sex
-|2,0,1522044370,,"Sex"
-:tabnew afl-fuzz.c
-|2,0,1521613401,,"tabnew afl-fuzz.c"
-:tabnew README.old
-|2,0,1521613177,,"tabnew README.old"
-: 
-|2,0,1521425721,," "
-:r week3.md
-|2,0,1521067967,,"r week3.md"
-:Q
-|2,0,1521067502,,"Q"
-:tabnew task1.py
-|2,0,1520822571,,"tabnew task1.py"
-:r ../week2/week2.md
-|2,0,1520825296,,"r ../week2/week2.md"
-:tabnew task3.py
-|2,0,1520821771,,"tabnew task3.py"
-:n task3.py
-|2,0,1520821751,,"n task3.py"
-:e ../week1/week1.md
-|2,0,1519903871,,"e ../week1/week1.md"
+|2,0,1525748314,,"w"
+:wq
+|2,0,1525747510,,"wq"
+:tabnew .
+|2,0,1524997158,,"tabnew ."
+:tabnew ,
+|2,0,1524997151,,"tabnew ,"
 :tabnew
-|2,0,1519903857,,"tabnew"
-:reg
-|2,0,1519896650,,"reg"
-:tabnew ../week1/week1.md
-|2,0,1519896404,,"tabnew ../week1/week1.md"
-:r !head -1 ../week1/week1.md
-|2,0,1519896332,,"r !head -1 ../week1/week1.md"
-:rl
-|2,0,1519888719,,"rl"
-:r1
-|2,0,1519888710,,"r1"
-:r ../week1/week1.md
-|2,0,1519888640,,"r ../week1/week1.md"
-:tabnew /usr/local/lib/afl/
-|2,0,1519866482,,"tabnew /usr/local/lib/afl/"
-:tnew /
-|2,0,1519866469,,"tnew /"
-:t
-|2,0,1519866457,,"t"
-:e /usr/local/lib/afl/
-|2,0,1519866427,,"e /usr/local/lib/afl/"
-:tabnew /usr/local/lib/afl/afl-fuzz.c
-|2,0,1519857389,,"tabnew /usr/local/lib/afl/afl-fuzz.c"
-:tabnew /usr/local/lib/afl/afl-as.c
-|2,0,1519857296,,"tabnew /usr/local/lib/afl/afl-as.c"
-:tabnew ../../@COMP4660/week1.md
-|2,0,1519278988,,"tabnew ../../@COMP4660/week1.md"
-:tabnew learn-fuzz/summary.md
-|2,0,1518565686,,"tabnew learn-fuzz/summary.md"
-:help autocmd
-|2,0,1517708752,,"help autocmd"
-:help gq
-|2,0,1517708551,,"help gq"
-:help
-|2,0,1517708517,,"help"
-:z
-|2,0,1517708356,,"z"
-:255, 259s/^/	 /
-|2,0,1508997048,,"255, 259s/^/	 /"
-:7, 249s/^/	 /
-|2,0,1508996965,,"7, 249s/^/	 /"
-:7, 249s/	/
-|2,0,1508996936,,"7, 249s/	/"
-:7, 249s/^/> /
-|2,0,1508995633,,"7, 249s/^/> /"
-:7, 249s/^/>: /
-|2,0,1508995607,,"7, 249s/^/>: /"
-:r mst.c
-|2,0,1508995291,,"r mst.c"
-:r results.txt
-|2,0,1508992344,,"r results.txt"
-:cd ,COMP3600/assignment_2/
-|2,0,0,,"cd ,COMP3600/assignment_2/"
-:cd COMP3600/assignment_2
-|2,0,0,,"cd COMP3600/assignment_2"
-:cd GoogleDrive
-|2,0,0,,"cd GoogleDrive"
-:help i_CTRL-N
-|2,0,0,,"help i_CTRL-N"
-:help -ICTRL-N
-|2,0,0,,"help -ICTRL-N"
-:s
-|2,0,0,,"s"
+|2,0,1524287185,,"tabnew"
+:tabnew im_compression_nn.py
+|2,0,1524276278,,"tabnew im_compression_nn.py"
+:tabnew nn_test.py
+|2,0,1524274832,,"tabnew nn_test.py"
+:q!
+|2,0,1524216983,,"q!"
+:e
+|2,0,1524034597,,"e"
+:tabnew targets/binutils-2.9/binutils/objdump.c
+|2,0,1524033825,,"tabnew targets/binutils-2.9/binutils/objdump.c"
+:tabnew ~/Desktop/objdump_exploits/42204.txt
+|2,0,1524031866,,"tabnew ~/Desktop/objdump_exploits/42204.txt"
+:tabnew ~/Desktop/objdump_exploits/42204
+|2,0,1524031852,,"tabnew ~/Desktop/objdump_exploits/42204"
+:tabnew ~/Desktop/objdump_exploits/42203.txt
+|2,0,1524031813,,"tabnew ~/Desktop/objdump_exploits/42203.txt"
+:wqa
+|2,0,1524031789,,"wqa"
+:tabnew ~/Desktop/objdump_exploits/42202.txt
+|2,0,1524031773,,"tabnew ~/Desktop/objdump_exploits/42202.txt"
+:tabnew ~/Desktop/objdump_exploits/42201.txt
+|2,0,1524031738,,"tabnew ~/Desktop/objdump_exploits/42201.txt"
+:tabnew ~/Desktop/objdump_exploits/42200.txt
+|2,0,1524031628,,"tabnew ~/Desktop/objdump_exploits/42200.txt"
+:tabnew ~/Desktop/objdump_exploits/42199.txt
+|2,0,1524031582,,"tabnew ~/Desktop/objdump_exploits/42199.txt"
+:tabnew ~/Desktop/objdump_exploits/42198.txt
+|2,0,1524031383,,"tabnew ~/Desktop/objdump_exploits/42198.txt"
+:tabnew before_meeting
+|2,0,1524022663,,"tabnew before_meeting"
+:.,.+1q
+|2,0,1524007402,,".,.+1q"
+:help syntastic
+|2,0,1523681344,,"help syntastic"
+:%s/learning_rate/LEARNING_RATE/g
+|2,0,1523681098,,"%s/learning_rate/LEARNING_RATE/g"
+:%s/epochs/EPOCHS/g
+|2,0,1523681078,,"%s/epochs/EPOCHS/g"
+:%s/hidden_to_remove/HIDDEN_TO_REMOVE/g
+|2,0,1523681062,,"%s/hidden_to_remove/HIDDEN_TO_REMOVE/g"
+:%s/n_hidden/N_HIDDEN/g
+|2,0,1523681034,,"%s/n_hidden/N_HIDDEN/g"
+:%s/n_output/N_OUTPUT/g
+|2,0,1523681017,,"%s/n_output/N_OUTPUT/g"
+:%s/n_input/N_INPUT/g
+|2,0,1523680983,,"%s/n_input/N_INPUT/g"
+:tabnew ~/.vim/vimrc
+|2,0,1523680948,,"tabnew ~/.vim/vimrc"
+:%s/print/debug_print/g
+|2,0,1523433279,,"%s/print/debug_print/g"
+:w\
+|2,0,1523154683,,"w\\"
+:ew
+|2,0,1523082062,,"ew"
+:tabnew ../GoogleDrive/@COMP4660/Lab1_code/task1.py
+|2,0,1523081733,,"tabnew ../GoogleDrive/@COMP4660/Lab1_code/task1.py"
+:tabnew im_comp
+|2,0,1523069738,,"tabnew im_comp"
+:tabnew im_combine.py
+|2,0,1523068546,,"tabnew im_combine.py"
+:tabnew im_split.py
+|2,0,1523062559,,"tabnew im_split.py"
+:tabnew imsplit
+|2,0,1523062551,,"tabnew imsplit"
+:retab
+|2,0,1522991155,,"retab"
+:tabnew ~/GoogleDrive/@COMP4660/Lab1_code/task2.py
+|2,0,1522977498,,"tabnew ~/GoogleDrive/@COMP4660/Lab1_code/task2.py"
+:tabnew ~/GoogleDrive/@COMP4660/lab2/lab2_code/task1.py
+|2,0,1522977468,,"tabnew ~/GoogleDrive/@COMP4660/lab2/lab2_code/task1.py"
+:tabnew .zshrc
+|2,0,1522836336,,"tabnew .zshrc"
+:SyntasticReset
+|2,0,1522817444,,"SyntasticReset"
+:qa
+|2,0,1522815547,,"qa"
+:SyntacticReset
+|2,0,1522797018,,"SyntacticReset"
+:SyntacticREset
+|2,0,1522797008,,"SyntacticREset"
+:SytancticReset
+|2,0,1522796998,,"SytancticReset"
+:%retab!
+|2,0,1522795884,,"%retab!"
+:93,100 normal .
+|2,0,1522630494,,"93,100 normal ."
+:81,90 normal .
+|2,0,1522630097,,"81,90 normal ."
 
 # Search String History (newest to oldest):
-? @$
-|2,1,1522385477,,"@$"
-?/save_inp
-|2,1,1522286666,47,"save_inp"
-?/write_bitmap_
-|2,1,1522286647,47,"write_bitmap_"
-?/write_bitm
-|2,1,1522286541,47,"write_bitm"
-?/write_
-|2,1,1522286511,47,"write_"
-?/save_input
-|2,1,1522286474,47,"save_input"
-?/write_bitmap
-|2,1,1522286365,47,"write_bitmap"
-?/write_to_test
-|2,1,1522286110,47,"write_to_test"
-?/save_in
-|2,1,1522286078,47,"save_in"
-?/common_fuzz
-|2,1,1522284965,47,"common_fuzz"
-?/run_target
-|2,1,1522284899,47,"run_target"
-?/save
-|2,1,1522284746,47,"save"
-?/fuzz_one
-|2,1,1522284592,47,"fuzz_one"
-?/fuzz_on
-|2,1,1522284463,47,"fuzz_on"
-?/sync_f
-|2,1,1522284339,47,"sync_f"
-?/save_if
-|2,1,1522284289,47,"save_if"
-?/Fuzzing
-|2,1,1522284253,47,"Fuzzing"
-?/child_pid
-|2,1,1522283929,47,"child_pid"
-?/waitpid
-|2,1,1522283603,47,"waitpid"
-?/wait_pid
-|2,1,1522283584,47,"wait_pid"
-?/fork(
-|2,1,1522283415,47,"fork("
-?/fork_
-|2,1,1522283299,47,"fork_"
-?/fork_server
-|2,1,1522283292,47,"fork_server"
-?/forksrv_pid
-|2,1,1522283159,47,"forksrv_pid"
-?/fsrv_ctl
-|2,1,1522283107,47,"fsrv_ctl"
-?/write(
-|2,1,1522283071,47,"write("
-?/process
-|2,1,1522282986,47,"process"
-?/clone
-|2,1,1522282937,47,"clone"
-?/init_for
-|2,1,1522282882,47,"init_for"
-?/dupli
-|2,1,1522282871,47,"dupli"
-?/child_
-|2,1,1522282757,47,"child_"
-?/forkserv
-|2,1,1522282737,47,"forkserv"
-?/forksrv
-|2,1,1522282720,47,"forksrv"
+? \<char\>
+|2,1,1525216244,,"\\<char\\>"
 ?/execv(
-|2,1,1522282674,47,"execv("
-?/save_inpu
-|2,1,1522280822,47,"save_inpu"
-?/run_tar
-|2,1,1522280638,47,"run_tar"
-?/fuzz_one(
-|2,1,1522280585,47,"fuzz_one("
+|2,1,1524698733,47,"execv("
+?/execv
+|2,1,1524698727,47,"execv"
+?/run_target
+|2,1,1524698695,47,"run_target"
+?/common_fuzz_stuff
+|2,1,1524698412,47,"common_fuzz_stuff"
+?/save
+|2,1,1524698354,47,"save"
+?/bitmap
+|2,1,1524698301,47,"bitmap"
+?/update_bitmap
+|2,1,1524698267,47,"update_bitmap"
+?/update_bitmap_score
+|2,1,1524697500,47,"update_bitmap_score"
+?/IS_
+|2,1,1524697460,47,"IS_"
+?/interesting
+|2,1,1524697325,47,"interesting"
+?/fuzz_one
+|2,1,1524696678,47,"fuzz_one"
+?/fuzz)one
+|2,1,1524696671,47,"fuzz)one"
 ?/jon-m
-|2,1,1522279779,47,"jon-m"
-?/rmdir(
-|2,1,1522279509,47,"rmdir("
-?/maybe
-|2,1,1522278757,47,"maybe"
-?/delete_files
-|2,1,1522278639,47,"delete_files"
-??current_entry
-|2,1,1522226559,63,"current_entry"
-?/use_argv
-|2,1,1522226153,47,"use_argv"
-??current
-|2,1,1522225820,63,"current"
-?/CASE_PREFIX
-|2,1,1522209700,47,"CASE_PREFIX"
-?/save_i
-|2,1,1522232169,47,"save_i"
-?/describe_op
-|2,1,1522232128,47,"describe_op"
-?/quiet;q
-|2,1,1522231138,47,"quiet;q"
-?/save_bitm
-|2,1,1522208938,47,"save_bitm"
-?/fuzz_bitmap
-|2,1,1522208926,47,"fuzz_bitmap"
+|2,1,1524695862,47,"jon-m"
+??N_IN
+|2,1,1524275572,63,"N_IN"
+?/N_IN
+|2,1,1524275565,47,"N_IN"
+?/data
+|2,1,1524275236,47,"data"
+?/limit
+|2,1,1524216795,47,"limit"
+?/SIGKILL
+|2,1,1524051992,47,"SIGKILL"
+?/apple
+|2,1,1524036500,47,"apple"
+?/apple-
+|2,1,1524036495,47,"apple-"
+?/sup
+|2,1,1524036446,47,"sup"
+?/macos
+|2,1,1524036432,47,"macos"
+?/objdump
+|2,1,1524034409,47,"objdump"
+?/main
+|2,1,1524033828,47,"main"
+?/SIG
+|2,1,1524033781,47,"SIG"
+?/large
+|2,1,1523681800,47,"large"
+? learning_rate
+|2,1,1523681098,,"learning_rate"
+? epochs
+|2,1,1523681078,,"epochs"
+? hidden_to_remove
+|2,1,1523681062,,"hidden_to_remove"
+? n_hidden
+|2,1,1523681034,,"n_hidden"
+? n_output
+|2,1,1523681017,,"n_output"
+? n_input
+|2,1,1523680983,,"n_input"
+?/neuron_pair
+|2,1,1523439242,47,"neuron_pair"
+? print
+|2,1,1523433279,,"print"
+?/print
+|2,1,1523433213,47,"print"
+?/smartin
+|2,1,1523432467,47,"smartin"
+?/epoch
+|2,1,1523176634,47,"epoch"
+?/zero
+|2,1,1523153724,47,"zero"
+?/compress
+|2,1,1523085304,47,"compress"
+?/Encoder
+|2,1,1523085274,47,"Encoder"
+?/net
+|2,1,1523084758,47,"net"
+?/uk
+|2,1,1523083005,47,"uk"
+?/data_loa
+|2,1,1522980695,47,"data_loa"
+?/Compres
+|2,1,1522980626,47,"Compres"
+?/epochs
+|2,1,1522979958,47,"epochs"
+?/write_bitmap_
+|2,1,1522817491,47,"write_bitmap_"
+?/kill_signal
+|2,1,1522810273,47,"kill_signal"
+?/FOR_TARGET
+|2,1,1522801408,47,"FOR_TARGET"
+?/EXTRA_TARGET
+|2,1,1522801397,47,"EXTRA_TARGET"
 
 # Expression History (newest to oldest):
 
@@ -230,429 +230,1174 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	CHAR	0
-	]
-|3,0,0,0,1,0,1522385477,"]"
+"0	LINE	0
+	unsigned char * fromBinary( int * bits ){
+|3,0,0,1,1,0,1525216394,"unsigned char * fromBinary( int * bits ){"
 ""1	LINE	0
-	!.fasd
-|3,1,1,1,1,0,1522386564,"!.fasd"
+	  virtualenvwrapper
+|3,1,1,1,1,0,1525747506,"  virtualenvwrapper"
 "2	LINE	0
-	!.zhistory
-|3,0,2,1,1,0,1522385823,"!.zhistory"
+	unsigned char fromBinary( int * bits );
+|3,0,2,1,1,0,1525216399,"unsigned char fromBinary( int * bits );"
 "3	LINE	0
-	[]	 
-|3,0,3,1,1,0,1522366013,"[]	 "
+	  printf("%d\n", *test);
+|3,0,3,1,1,0,1525215187,"  printf(\"%d\\n\", *test);"
 "4	LINE	0
-	/* jon-m 2018
-	   This function takes an input id and writes to file the 
-	   bitmap associated with afl when that input is being executed */
-	
-	EXP_ST void write_bitmap_for_current_entry(int timing_id) {
-	
-	  s32 fd;
-	  char* fname;
-	
-	  fname = alloc_printf("%s/fuzz_bitmaps/%06u:%06u:op:%s_%d", out_dir, child_pid, current_entry, describe_op(0), timing_id);
-	  fd = open(fname, O_WRONLY | O_CREAT | O_TRUNC, 0600);
-	
-	
-	  if (fd < 0) PFATAL("Unable to open '%s'", fname);
-	
-	  ck_write(fd, virgin_bits, MAP_SIZE, fname);
-	
-	  close(fd);
-	  ck_free(fname);
-	
-	}
-	
-|3,0,4,1,22,0,1522286655,"/* jon-m 2018","   This function takes an input id and writes to file the ","   bitmap associated with afl when that input is being executed */","","EXP_ST void write_bitmap_for_current_entry(int timing_id) {","","  s32 fd;","  char* fname;","","  fname = alloc_printf(\"%s/fuzz_bitmaps/%06u:%06u:op:%s_%d\", out_dir, child_pid, current_entry, describe_op(0), timing_id);","  fd = open(fname, O_WRONLY | O_CREAT | O_TRUNC, 0600);","","",>55
-|<"  if (fd < 0) PFATAL(\"Unable to open '%s'\", fname);","","  ck_write(fd, virgin_bits, MAP_SIZE, fname);","","  close(fd);","  ck_free(fname);","","}",""
+	    out = bits;
+|3,0,4,1,1,0,1525174192,"    out = bits;"
 "5	LINE	0
-	:op:%s", out_dir, current_entry, child_pid, 
-|3,0,5,1,1,0,1522286582,":op:%s\", out_dir, current_entry, child_pid, "
+	
+|3,0,5,1,1,0,1525174174,""
 "6	LINE	0
-	  fd = open(fname, O_WRONLY | O_CREAT | O_TRUNC, 0600);
-|3,0,6,1,1,0,1522286454,"  fd = open(fname, O_WRONLY | O_CREAT | O_TRUNC, 0600);"
+	    p
+|3,0,6,1,1,0,1524283944,"    p"
 "7	LINE	0
-	
-|3,0,7,1,1,0,1522284755,""
+	total_sum_of_squares = 0
+|3,0,7,1,1,0,1524283936,"total_sum_of_squares = 0"
 "8	LINE	0
-	
-|3,0,8,1,1,0,1522284754,""
+	image_name = "lena"
+|3,0,8,1,1,0,1524277959,"image_name = \"lena\""
 "9	LINE	0
-	/* jon-m 2018
-	   Always save the current input because that's what we want to know about.
-	*/
-	
-	static void save_input_being_fuzzed(s32 child_pid, u32 current_entry){
-	
-	  u32 len = queue_cur->len;
-	
-	  void* mem = ck_alloc_nozero(len);
-	
-	  u8  *fn_always_save = "";
-	  s32 fd_always_save;
-	
-	  fn_always_save = alloc_printf("%s/inputs/id:%06u:%s", out_dir, current_entry, describe_op(0));
-	
-	  fd_always_save = open(fn_always_save, O_WRONLY | O_CREAT | O_EXCL, 0600);
-	  if (fd_always_save < 0) PFATAL("Unable to create '%s'", fn_always_save);
-	  ck_write(fd_always_save, mem, len, fn_always_save);
-	  close(fd_always_save);
-	
-	  ck_free(fn_always_save);
-	
-	  /* END jon-m */
-	  }
-	
-	
-	
-|3,0,9,1,27,0,1522284734,"/* jon-m 2018","   Always save the current input because that's what we want to know about.","*/","","static void save_input_being_fuzzed(s32 child_pid, u32 current_entry){","","  u32 len = queue_cur->len;","","  void* mem = ck_alloc_nozero(len);","","  u8  *fn_always_save = \"\";","  s32 fd_always_save;","","  fn_always_save = alloc_printf(\"%s/inputs/id:%06u:%s\", out_dir, current_entry, describe_op(0));","",>77
-|<"  fd_always_save = open(fn_always_save, O_WRONLY | O_CREAT | O_EXCL, 0600);","  if (fd_always_save < 0) PFATAL(\"Unable to create '%s'\", fn_always_save);","  ck_write(fd_always_save, mem, len, fn_always_save);","  close(fd_always_save);","","  ck_free(fn_always_save);","","  /* END jon-m */","  }","","",""
+	        print(image)
+|3,0,9,1,1,0,1524277952,"        print(image)"
+"l	CHAR	0
+	k
+|3,0,21,0,1,0,1522798530,"k"
 "w	CHAR	0
 	wwL:kkkkk
 |3,0,32,0,1,0,1509023590,"wwL:kkkkk"
 "-	CHAR	0
-	]
-|3,0,36,0,1,0,1522372750,"]"
+	*
+|3,0,36,0,1,0,1525216355,"*"
 
 # File marks:
-'0  4  0  ~/.gitignore
-|4,48,4,0,1522386566,"~/.gitignore"
-'1  8  0  ~/.gitignore
-|4,49,8,0,1522386411,"~/.gitignore"
-'2  9  0  ~/.gitignore
-|4,50,9,0,1522386411,"~/.gitignore"
-'3  1  0  ~/.gitconfig
-|4,51,1,0,1522386373,"~/.gitconfig"
-'4  1  0  ~/.bash_profile
-|4,52,1,0,1522386321,"~/.bash_profile"
-'5  1  0  ~/todo
-|4,53,1,0,1522386205,"~/todo"
-'6  10  9  ~/.gitignore
-|4,54,10,9,1522385889,"~/.gitignore"
-'7  10  9  ~/.gitignore
-|4,55,10,9,1522385889,"~/.gitignore"
-'8  11  9  ~/.gitignore
-|4,56,11,9,1522385889,"~/.gitignore"
-'9  11  9  ~/.gitignore
-|4,57,11,9,1522385889,"~/.gitignore"
+'0  4  6  ~/homefiles/.gitignore
+|4,48,4,6,1525748317,"~/homefiles/.gitignore"
+'1  69  2  ~/.zshrc
+|4,49,69,2,1525747511,"~/.zshrc"
+'2  70  8  ~/.zshrc
+|4,50,70,8,1525747473,"~/.zshrc"
+'3  71  8  ~/.zshrc
+|4,51,71,8,1525747473,"~/.zshrc"
+'4  1  0  ~/.zshrc
+|4,52,1,0,1525747019,"~/.zshrc"
+'5  1  0  ~/.zshrc
+|4,53,1,0,1525747019,"~/.zshrc"
+'6  1  0  ~/.zshrc
+|4,54,1,0,1525747019,"~/.zshrc"
+'7  1  0  ~/.zshrc
+|4,55,1,0,1525747019,"~/.zshrc"
+'8  1  0  ~/.zshrc
+|4,56,1,0,1525747007,"~/.zshrc"
+'9  1  0  ~/.zshrc
+|4,57,1,0,1525747007,"~/.zshrc"
 
 # Jumplist (newest first):
--'  4  0  ~/.gitignore
-|4,39,4,0,1522386566,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1522386561,"~/.gitignore"
--'  8  0  ~/.gitignore
-|4,39,8,0,1522386411,"~/.gitignore"
--'  9  0  ~/.gitignore
-|4,39,9,0,1522386411,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1522386407,"~/.gitignore"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1522386373,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1522386373,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1522386373,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1522386373,"~/.gitconfig"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1522386321,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1522386321,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1522386321,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1522386321,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1522386321,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1522386321,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1522386321,"~/.bash_profile"
--'  1  0  ~/.bash_profile
-|4,39,1,0,1522386321,"~/.bash_profile"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  1  0  ~/todo
-|4,39,1,0,1522386205,"~/todo"
--'  10  9  ~/.gitignore
-|4,39,10,9,1522385889,"~/.gitignore"
--'  11  9  ~/.gitignore
-|4,39,11,9,1522385889,"~/.gitignore"
--'  11  9  ~/.gitignore
-|4,39,11,9,1522385889,"~/.gitignore"
--'  11  9  ~/.gitignore
-|4,39,11,9,1522385889,"~/.gitignore"
--'  11  9  ~/.gitignore
-|4,39,11,9,1522385889,"~/.gitignore"
--'  11  9  ~/.gitignore
-|4,39,11,9,1522385889,"~/.gitignore"
--'  11  9  ~/.gitignore
-|4,39,11,9,1522385889,"~/.gitignore"
--'  11  9  ~/.gitignore
-|4,39,11,9,1522385889,"~/.gitignore"
--'  11  9  ~/.gitignore
-|4,39,11,9,1522385889,"~/.gitignore"
--'  11  9  ~/.gitignore
-|4,39,11,9,1522385889,"~/.gitignore"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  23  0  ~/.zlogin
-|4,39,23,0,1522385650,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
--'  1  0  ~/.zlogin
-|4,39,1,0,1522385643,"~/.zlogin"
+-'  4  6  ~/homefiles/.gitignore
+|4,39,4,6,1525748317,"~/homefiles/.gitignore"
+-'  1  0  ~/homefiles/.gitignore
+|4,39,1,0,1525748234,"~/homefiles/.gitignore"
+-'  69  2  ~/.zshrc
+|4,39,69,2,1525747511,"~/.zshrc"
+-'  69  2  ~/.zshrc
+|4,39,69,2,1525747511,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525747501,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525747501,"~/.zshrc"
+-'  70  8  ~/.zshrc
+|4,39,70,8,1525747473,"~/.zshrc"
+-'  71  8  ~/.zshrc
+|4,39,71,8,1525747473,"~/.zshrc"
+-'  70  8  ~/.zshrc
+|4,39,70,8,1525747473,"~/.zshrc"
+-'  71  8  ~/.zshrc
+|4,39,71,8,1525747473,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525747194,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525747194,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525747019,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525747019,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525747007,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525747007,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525746971,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525746971,"~/.zshrc"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshr
+|4,39,1,0,1525746962,"~/.zshr"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525746958,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525746958,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525746958,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525746958,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525746932,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525746932,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525746932,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1525746932,"~/.zshrc"
+-'  39  0  ~/.vim/vimrc
+|4,39,39,0,1525605707,"~/.vim/vimrc"
+-'  39  0  ~/.vim/vimrc
+|4,39,39,0,1525605707,"~/.vim/vimrc"
+-'  39  0  ~/.vim/vimrc
+|4,39,39,0,1525605707,"~/.vim/vimrc"
+-'  39  0  ~/.vim/vimrc
+|4,39,39,0,1525605707,"~/.vim/vimrc"
+-'  39  0  ~/.vim/vimrc
+|4,39,39,0,1525605707,"~/.vim/vimrc"
+-'  39  0  ~/.vim/vimrc
+|4,39,39,0,1525605707,"~/.vim/vimrc"
+-'  39  0  ~/.vim/vimrc
+|4,39,39,0,1525605707,"~/.vim/vimrc"
+-'  39  0  ~/.vim/vimrc
+|4,39,39,0,1525605707,"~/.vim/vimrc"
+-'  39  0  ~/.vim/vimrc
+|4,39,39,0,1525605707,"~/.vim/vimrc"
+-'  39  0  ~/.vim/vimrc
+|4,39,39,0,1525605707,"~/.vim/vimrc"
 
 # History of marks within files (newest to oldest):
 
-> ~/.gitignore
-	*	1522386565	0
-	"	4	0
-	^	10	10
-	.	4	0
-	+	4	6
-	+	7	9
-	+	9	10
-	+	10	9
-	+	11	10
-	+	12	0
-	+	10	9
-	+	4	0
-
-> ~/.gitconfig
-	*	1522386363	0
-	"	1	0
-
-> ~/.bash_profile
-	*	1522386316	0
-	"	1	0
-
-> ~/todo
-	*	1522386205	0
-	"	1	0
-	^	6	21
-	.	6	20
-	+	6	0
-	+	3	1
-	+	4	0
+> ~/homefiles/.gitignore
+	*	1525748314	0
+	"	4	6
+	^	4	7
+	.	5	0
 	+	5	0
-	+	4	2
-	+	5	1
-	+	3	1
-	+	6	20
 
-> ~/.zlogin
-	*	1522385647	0
-	"	23	0
+> ~/.zshrc
+	*	1525747510	0
+	"	69	2
+	^	70	9
+	.	69	0
+	+	28	31
+	+	16	23
+	+	15	0
+	+	14	0
+	+	15	30
+	+	16	21
+	+	16	15
+	+	70	8
+	+	69	0
 
-> ~/.zshenv
-	*	1522385630	0
+> ~/.zshr
+	*	1525746959	0
 	"	1	0
-
-> ~/.zprofile
-	*	1522385616	0
-	"	63	0
-
-> ~/.viminfo
-	*	1522385534	0
-	"	282	0
 
 > ~/.vim/vimrc
-	*	1522385283	0
-	"	51	0
-	^	14	0
-	.	14	0
-	+	40	0
+	*	1525605706	0
+	"	39	0
+	^	71	6
+	.	71	5
+	+	48	0
 	+	4	0
 	+	3	33
 	+	5	0
+	+	27	0
+	+	30	0
+	+	38	0
+	+	36	0
+	+	41	0
+	+	41	16
+	+	41	0
+	+	41	16
+	+	44	0
+	+	41	0
+	+	44	0
+	+	40	0
+	+	41	0
+	+	43	0
+	+	44	0
 	+	20	0
-	+	23	0
-	+	31	0
-	+	29	0
-	+	34	0
-	+	34	16
-	+	34	0
-	+	34	16
-	+	36	0
-	+	34	0
-	+	36	0
-	+	33	0
-	+	34	0
-	+	35	0
-	+	36	0
+	+	9	0
+	+	12	27
+	+	12	28
+	+	12	27
+	+	7	0
+	+	11	8
+	+	14	30
+	+	22	9
+	+	12	0
 	+	14	0
+	+	63	0
+	+	64	0
+	+	69	12
+	+	62	0
+	+	43	0
+	+	42	14
+	+	14	0
+	+	13	0
+	+	71	5
 
-> ~/.answers.swp
-	*	1522385110	0
+> /.vim/vimrc
+	*	1525605662	0
 	"	1	0
 
-> ~/GoogleDrive/holiday_plan
-	*	1522384893	0
-	"	15	24
-	^	8	27
-	.	8	26
-	+	25	1
-	+	20	1
-	+	21	0
-	+	20	2
-	+	21	1
-	+	25	3
-	+	13	9
-	+	15	28
-	+	16	13
-	+	21	2
-	+	20	2
-	+	21	9
-	+	11	13
-	+	12	12
-	+	16	6
-	+	17	21
-	+	15	33
-	+	16	23
-	+	17	24
+> ~/corrupt.c
+	*	1525216460	0
+	"	12	15
+	^	28	16
+	.	28	15
+	+	88	1
+	+	33	0
+	+	50	0
+	+	55	12
+	+	54	0
+	+	18	32
+	+	18	31
+	+	90	33
+	+	93	25
+	+	92	59
+	+	94	33
+	+	97	0
+	+	28	0
+	+	27	18
+	+	90	19
+	+	18	19
+	+	94	17
+	+	44	17
+	+	26	18
+	+	29	16
+	+	93	34
+	+	24	20
+	+	92	22
+	+	24	20
+	+	93	33
+	+	91	48
+	+	39	50
+	+	40	32
+	+	43	46
+	+	46	74
+	+	48	25
+	+	45	105
+	+	48	23
+	+	49	88
+	+	94	18
+	+	96	16
+	+	28	10
+	+	58	15
+	+	59	48
+	+	64	15
+	+	60	11
+	+	64	13
+	+	16	40
+	+	28	15
+
+> ~/nn_assignment/readme.txt
+	*	1524997618	0
+	"	1	0
+
+> ~/nn_assignment/im_compression_nn.py
+	*	1524997570	0
+	"	173	0
+	^	42	30
+	.	42	29
+	+	152	65
+	+	146	59
+	+	190	60
+	+	152	62
+	+	24	19
+	+	188	19
+	+	189	27
+	+	191	25
+	+	41	30
+	+	24	19
+	+	26	9
+	+	41	16
+	+	102	0
+	+	103	0
+	+	109	42
+	+	103	37
+	+	106	16
+	+	109	49
+	+	111	0
+	+	129	31
+	+	188	20
+	+	188	3
+	+	187	49
+	+	192	0
+	+	188	0
+	+	176	54
+	+	181	16
+	+	187	46
+	+	192	44
+	+	176	12
+	+	20	12
+	+	24	20
+	+	26	11
+	+	152	16
+	+	193	0
+	+	39	76
+	+	6	86
 	+	21	14
-	+	25	2
-	+	21	13
-	+	7	28
+	+	6	0
+	+	6	85
+	+	17	0
+	+	11	0
+	+	17	0
+	+	12	0
+	+	37	40
+	+	183	38
+	+	184	21
+	+	184	40
+	+	185	16
+	+	183	44
+	+	19	36
+	+	21	0
+	+	25	0
+	+	22	0
+	+	24	0
+	+	26	0
+	+	27	0
+	+	32	26
+	+	34	25
+	+	26	12
+	+	32	0
+	+	32	2
+	+	32	0
+	+	33	3
+	+	37	0
+	+	38	6
+	+	38	3
+	+	38	6
+	+	46	0
+	+	47	0
+	+	47	6
+	+	47	3
+	+	47	6
+	+	51	0
+	+	52	6
+	+	52	3
+	+	52	6
+	+	57	0
+	+	58	6
+	+	58	3
+	+	31	0
+	+	24	19
+	+	19	36
+	+	105	64
+	+	184	61
+	+	115	48
+	+	105	63
+	+	130	0
+	+	184	61
+	+	26	9
+	+	172	0
+	+	90	0
+	+	40	3
+	+	41	4
+	+	26	11
+	+	24	19
+	+	23	21
+	+	24	19
+	+	37	45
+	+	42	29
+
+> ~/nn_assignment/im_combine.py
+	*	1524997384	0
+	"	16	0
+	^	10	48
+	.	11	0
+	+	28	36
+	+	29	44
+	+	31	31
+	+	29	45
+	+	27	37
+	+	28	0
+	+	27	39
+	+	29	0
+	+	27	31
+	+	21	19
+	+	27	37
+	+	27	10
+	+	27	22
+	+	27	11
+	+	27	29
+	+	27	14
+	+	27	23
+	+	27	0
+	+	27	24
+	+	27	0
+	+	24	9
+	+	24	20
+	+	24	10
+	+	24	38
+	+	24	30
+	+	24	0
+	+	25	0
+	+	27	0
+	+	21	16
+	+	16	19
+	+	6	55
+	+	12	10
+	+	21	16
+	+	21	0
+	+	16	0
+	+	24	11
+	+	21	16
+	+	24	0
+	+	25	19
+	+	21	0
+	+	24	0
+	+	6	42
+	+	6	11
 	+	8	21
+	+	12	11
+	+	8	1
+	+	12	3
+	+	12	13
+	+	14	7
+	+	15	3
+	+	16	3
+	+	18	3
+	+	20	3
+	+	21	3
+	+	21	26
+	+	23	3
+	+	24	3
+	+	25	3
+	+	27	3
+	+	28	3
+	+	29	3
+	+	31	20
+	+	6	0
+	+	12	0
+	+	12	54
+	+	6	0
+	+	12	0
+	+	12	37
+	+	12	58
+	+	31	25
+	+	12	4
+	+	8	0
+	+	12	9
+	+	31	16
+	+	12	53
+	+	8	0
+	+	5	9
+	+	6	22
+	+	12	0
+	+	6	19
+	+	12	0
+	+	12	10
+	+	13	0
+	+	14	0
+	+	15	4
+	+	16	8
+	+	27	0
+	+	14	0
+	+	18	0
+	+	20	0
+	+	21	19
+	+	22	4
+	+	23	4
+	+	24	4
+	+	25	4
+	+	10	57
+	+	14	0
+	+	6	0
+	+	10	48
+	+	11	0
+
+> ~/nn_assignment/im_split.py
+	*	1524997378	0
+	"	10	0
+	^	5	20
+	.	5	19
+	+	20	74
+	+	8	59
+	+	17	9
+	+	18	13
+	+	13	18
+	+	14	15
+	+	5	16
+	+	8	64
+	+	20	30
+	+	6	51
+	+	20	30
+	+	5	18
+	+	6	0
+	+	8	59
+	+	20	0
+	+	12	15
+	+	11	6
+	+	12	29
+	+	9	3
+	+	6	25
+	+	5	19
+	+	17	16
+	+	18	20
+	+	19	0
+	+	18	0
+	+	20	0
+	+	19	8
+	+	20	57
+	+	6	67
+	+	20	45
+	+	5	17
+	+	20	0
+	+	5	17
+	+	6	66
+	+	20	55
+	+	19	0
+	+	20	73
+	+	16	12
+	+	20	48
+	+	21	19
+	+	1	0
+	+	2	0
+	+	6	72
+	+	13	21
+	+	14	13
+	+	4	15
+	+	13	34
+	+	14	19
+	+	5	19
+	+	6	67
+	+	4	14
+	+	5	19
+
+> ~/Desktop/test_images/readme.txt
+	*	1524997374	0
+	"	9	273
+	^	9	274
+	.	9	274
+	+	12	20
+	+	5	13
+	+	3	43
+	+	6	100
+	+	7	0
+	+	9	274
+
+> ~/Desktop/test_images/NERD_tree_2
+	*	1524997165	0
+	"	22	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/test_images/,
+	*	1524997151	0
+	"	1	0
+
+> ~/Desktop/test_images/NERD_tree_1
+	*	1524997064	0
+	"	24	0
+	.	1	0
+	+	1	0
+
+> ~/afl-mod/targets/source/binutils-2.29/binutils/objdump.c
+	*	1524718129	0
+	"	1	0
+
+> ~/afl-mod/afl/afl-fuzz.c
+	*	1524698755	0
+	"	2252	0
+	^	3166	28
+	.	3166	27
+	+	3166	27
+
+> ~/GoogleDrive/before_meeting
+	*	1524697074	0
+	"	5	0
+	^	6	44
+	.	6	43
+	+	1	0
+	+	4	0
+	+	6	43
+
+> ~/bitmap_plot/show_bitmap.py
+	*	1524695543	0
+	"	3	0
+	^	4	18
+	.	8	0
+	+	3	25
+	+	1	0
+	+	7	0
+	+	5	31
+	+	4	46
+	+	7	7
+	+	4	22
+	+	5	32
+	+	7	0
+	+	7	10
+	+	8	58
+	+	7	12
+	+	8	10
+	+	7	49
+	+	6	13
+	+	7	0
+	+	6	20
+	+	6	13
+	+	6	17
+	+	7	7
+	+	6	17
+	+	7	61
+	+	8	9
+	+	7	63
+	+	6	0
+	+	7	0
+	+	7	13
+	+	6	0
+	+	4	8
+	+	7	0
+	+	8	0
+	+	8	53
+	+	8	5
+	+	5	16
+	+	8	24
+	+	8	21
+	+	4	156
+	+	4	18
+	+	4	86
+	+	8	0
+	+	3	0
+	+	8	0
+
+> ~/afl-mod/afl/docs/technical_details.txt
+	*	1524695323	0
+	"	106	14
+
+> ~/nn_assignment/NERD_tree_1
+	*	1524287197	0
+	"	7	0
+	.	1	0
+	+	1	0
+
+> ~/nn_assignment/nn_test.py
+	*	1524287183	0
+	"	11	67
+	^	11	68
+	.	12	0
+	+	15	0
+	+	1	0
+	+	15	0
+	+	1	9
+	+	15	0
+	+	18	0
+	+	17	0
+	+	16	43
+	+	2	0
+	+	15	19
+	+	16	2
+	+	15	3
+	+	2	8
+	+	13	12
+	+	10	46
+	+	13	39
+	+	15	0
+	+	16	3
+	+	17	3
+	+	18	3
+	+	12	0
+	+	11	67
+	+	27	0
+	+	13	0
+	+	22	8
+	+	23	8
+	+	3	0
+	+	10	44
+	+	1	30
+	+	15	52
+	+	6	0
+	+	8	0
+	+	16	49
+	+	24	63
+	+	9	42
+	+	30	0
+	+	29	0
+	+	24	72
+	+	9	38
+	+	11	69
+	+	13	0
+	+	14	4
+	+	14	0
+	+	9	40
+	+	11	68
+	+	9	39
+	+	11	65
+	+	13	45
+	+	9	42
+	+	11	0
+	+	11	71
+	+	9	40
+	+	12	0
+
+> ~/Desktop/lena_out1/results1.txt
+	*	1524285847	0
+	"	48	0
+
+> ~/Desktop/baboon_out/results1.txt
+	*	1524285827	0
+	"	28	0
+
+> ~/Desktop/baboon_out/nn_test.py
+	*	1524276257	0
+	"	1	0
+
+> ~/Desktop/results.txt
+	*	1524276200	0
+	"	48	0
+
+> ~/nn_assignment/nn_assignment_1 (Autosaved).docx
+	*	1524274749	0
+	"	55	0
+	.	1	0
+	+	1	0
+
+> ~/nn_assignment/plan.md
+	*	1524274735	0
+	"	4	0
+	^	22	2
+	.	23	1
+	+	1	4
+	+	4	81
+	+	8	1
+	+	4	3
+	+	18	4
+	+	17	56
+	+	19	39
+	+	22	26
+	+	23	9
+	+	7	0
+	+	5	115
+	+	6	182
+	+	10	0
+	+	12	94
+	+	15	0
+	+	18	19
+	+	16	0
+	+	14	23
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	1
+	+	23	1
+
+> ~/.jupyter/jupyter_notebook_config.py
+	*	1524216979	0
+	"	1	0
+	^	167	0
+	.	166	20
+	+	166	20
+
+> ~/afl-mod/run-afl
+	*	1524196063	0
+	"	106	0
+	^	115	193
+	.	115	192
+	+	63	28
+	+	63	0
+	+	62	10
+	+	63	10
+	+	62	17
+	+	63	19
+	+	62	18
+	+	63	20
+	+	46	49
+	+	61	27
+	+	67	15
+	+	95	176
+	+	41	29
+	+	42	29
+	+	43	0
+	+	28	23
+	+	29	16
+	+	10	21
+	+	2	0
+	+	10	0
+	+	3	0
+	+	10	0
+	+	2	23
+	+	8	12
+	+	29	46
+	+	34	28
+	+	35	46
+	+	34	0
+	+	31	63
+	+	32	14
+	+	34	0
+	+	36	0
+	+	37	37
+	+	25	0
+	+	26	0
+	+	38	13
+	+	32	13
+	+	33	5
+	+	39	5
+	+	41	0
+	+	29	24
+	+	31	22
+	+	35	24
+	+	37	22
+	+	28	8
+	+	22	0
+	+	7	16
+	+	17	16
+	+	18	61
+	+	20	57
+	+	19	29
+	+	10	0
+	+	17	65
+	+	107	55
+	+	17	0
+	+	109	0
+	+	116	0
+	+	28	0
+	+	24	0
+	+	45	0
+	+	44	51
+	+	51	0
+	+	52	0
+	+	51	84
+	+	66	13
+	+	74	17
+	+	87	12
+	+	64	0
+	+	65	0
+	+	64	36
+	+	21	0
+	+	22	0
+	+	18	57
+	+	68	28
+	+	69	63
+	+	70	5
+	+	73	0
+	+	74	78
+	+	75	62
+	+	77	22
+	+	75	41
+	+	77	59
+	+	79	5
+	+	82	0
+	+	81	17
+	+	82	32
+	+	84	30
+	+	80	0
+	+	48	0
+	+	4	0
+	+	106	0
+	+	105	14
+	+	127	196
+	+	116	0
+	+	127	0
+	+	115	0
+	+	116	0
+	+	127	0
+	+	114	6
+	+	115	192
+	a	57	0
+
+> ~/afl-mod/.gitignore
+	*	1524121691	0
+	"	5	0
+	^	7	15
+	.	7	14
+	+	3	1
+	+	1	5
+	+	4	0
+	+	1	8
+	+	2	5
+	+	5	4
+	+	6	0
+	+	4	1
+	+	6	2
+	+	4	0
+	+	6	0
+	+	4	0
+	+	7	14
+
+> ~/afl-mod/targets_old/binutils-2.25/binutils/size.c
+	*	1524057156	0
+	"	43	0
+
+> ~/afl-mod/targets_old/binutils-2.25/binutils/objdump.c
+	*	1524052238	0
+	"	1	0
+
+> ~/afl-mod/targets_old/binutils-2.25/binutils/readelf.c
+	*	1524052090	0
+	"	15405	25
+
+> ~/afl-mod/targets/binutils-2.9/bfd/config.bfd
+	*	1524036502	0
+	"	348	7
+
+> bfd/config.bfd
+	*	1524036342	0
+	"	1	0
+
+> ~/afl-mod/NERD_tree_1
+	*	1524034610	0
+	"	24	0
+	.	1	0
+	+	1	0
+
+> ~/afl-mod/targets/binutils-2.9/Makefile
+	*	1524034412	0
+	"	1	0
+
+> ~/.vim/autoload/pathogen.vim
+	*	1524034027	0
+	"	110	0
+
+> ~/.vim/NERD_tree_1
+	*	1524034014	0
+	"	5	0
+	.	1	0
+	+	1	0
+
+> ~/afl-mod/targets/binutils-2.9/binutils/objdump.c
+	*	1524033889	0
+	"	2621	38
+	^	2621	39
+	.	2621	38
+	+	2622	0
+	+	2636	0
+	+	2642	0
+	+	2640	0
+	+	2641	40
+	+	2621	38
+
+> ~/Downloads/42199/37a2b1374545eb23eed0eea880de6226.ad5cda09828cea9d238db2184e95406b.min
+	*	1524033066	0
+	"	1	0
+
+> ~/Downloads/small_elf_file/smallest
+	*	1524032550	0
+	"	1	0
+
+> ~/afl-mod/crashing_seeds/seed42198.o
+	*	1524032270	0
+	"	1	0
+	^	1	65
+	.	2	0
+	+	1	65
+	+	2	0
+
+> ~/Desktop/objdump_exploits/42204.txt
+	*	1524031886	0
+	"	13	7
+
+> ~/Desktop/objdump_exploits/42204
+	*	1524031884	0
+	"	1	0
+
+> ~/afl-mod/crashing_seeds/seed42204
+	*	1524031876	0
+	"	1	0
+	.	2	0
+	+	1	0
+	+	2	0
+
+> ~/Desktop/objdump_exploits/42203.txt
+	*	1524031823	0
+	"	15	7
+
+> ~/afl-mod/crashing_seeds/seed42203
+	*	1524031822	0
+	"	1	0
+	.	2	0
+	+	1	0
+	+	2	0
+
+> ~/afl-mod/crashing_seeds/seed42202
+	*	1524031788	0
+	"	1	0
+	.	2	0
+	+	1	0
+	+	2	0
+
+> ~/Desktop/objdump_exploits/42202.txt
+	*	1524031779	0
+	"	15	7
+
+> ~/afl-mod/crashing_seeds/seed42201
+	*	1524031755	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/objdump_exploits/42201.txt
+	*	1524031744	0
+	"	15	7
+
+> ~/afl-mod/crashing_seeds/seed42200
+	*	1524031710	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/objdump_exploits/42200.txt
+	*	1524031709	0
+	"	15	7
+	.	15	0
+	+	15	0
+
+> ~/afl-mod/crashing_seeds/seed42199
+	*	1524031593	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/objdump_exploits/42199.txt
+	*	1524031588	0
+	"	15	7
+
+> ~/Desktop/objdump_exploits/42198.txt
+	*	1524031430	0
+	"	15	7
+
+> ~/afl-mod/crashing_seeds/seed42198
+	*	1524031427	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/GoogleDrive/holiday_plan
+	*	1524030898	0
+	"	45	0
+	^	27	0
+	.	45	0
 	+	25	24
 	+	23	4
 	+	24	2
@@ -667,25 +1412,313 @@ $
 	+	43	14
 	+	43	0
 	+	39	15
-	+	47	16
+	+	49	16
 	+	20	1
 	+	7	9
 	+	8	21
 	+	5	6
 	+	8	10
 	+	7	19
-	+	8	26
+	+	8	13
+	+	7	15
+	+	21	1
+	+	28	23
+	+	23	9
+	+	8	22
+	+	28	1
+	+	4	0
+	+	8	49
+	+	5	55
+	+	11	19
+	+	12	19
+	+	13	19
+	+	16	19
+	+	17	31
+	+	16	35
+	+	17	39
+	+	16	43
+	+	17	43
+	+	16	35
+	+	11	21
+	+	24	1
+	+	25	2
+	+	35	1
+	+	31	1
+	+	32	1
+	+	48	0
+	+	48	3
+	+	48	5
+	+	48	3
+	+	48	4
+	+	43	3
+	+	16	14
+	+	17	14
+	+	16	23
+	+	17	23
+	+	16	40
+	+	15	19
+	+	16	19
+	+	17	36
+	+	16	47
+	+	15	51
+	+	38	1
+	+	39	1
+	+	40	1
+	+	20	7
+	+	24	7
+	+	25	7
+	+	45	56
+	+	45	35
+	+	45	40
+	+	45	0
+	+	45	2
+	+	45	16
+	+	45	35
+	+	45	40
+	+	43	1
+	+	45	169
+	+	45	16
+	+	45	0
+	+	46	72
+	+	45	65
+	+	16	52
+	+	48	1
+	+	50	0
+	+	48	0
+	+	50	0
+	+	11	13
+	+	12	21
+	+	45	54
+	+	45	41
+	+	45	45
+	+	45	171
+	+	49	1
+	+	50	0
+	+	53	25
+	+	27	0
+	+	45	0
 
-> ~/GoogleDrive/@COMP4550/notes
-	*	1522295547	0
-	"	1	43
-	^	1	44
-	.	1	43
-	+	1	43
+> ~/Desktop/lena_out_9/results.txt
+	*	1524007402	0
+	"	414	0
+
+> ~/Desktop/lena_out_8/results.txt
+	*	1523755094	0
+	"	370	0
+
+> ~/GoogleDrive/@COMP4660/Lab1_code/task1.py
+	*	1523082186	0
+	"	126	0
+	^	205	16
+	.	205	7
+	+	186	0
+	+	204	0
+	+	203	15
+	+	205	7
+
+> ~/nn_assignment/im_comp
+	*	1523069738	0
+	"	1	0
+
+> ~/nn_assignment/imsplit
+	*	1523062551	0
+	"	1	0
+
+> ~/im_compression_nn.py
+	*	1522991574	0
+	"	1	0
+
+> ~/GoogleDrive/@COMP4660/Lab1_code/task2.py
+	*	1522980608	0
+	"	131	17
+
+> ~/GoogleDrive/@COMP4660/lab2/lab2_code/task1.py
+	*	1522977475	0
+	"	5	0
+	^	34	65
+	.	34	64
+	+	46	23
+	+	67	45
+	+	68	0
+	+	69	0
+	+	77	0
+	+	78	15
+	+	80	19
+	+	82	9
+	+	80	40
+	+	82	28
+	+	82	66
+	+	84	31
+	+	85	0
+	+	87	0
+	+	21	0
+	+	82	32
+	+	84	0
+	+	82	37
+	+	84	0
+	+	81	0
+	+	87	4
+	+	90	35
+	+	87	24
+	+	107	43
+	+	111	53
+	+	114	17
+	+	113	24
+	+	114	24
+	+	117	0
+	+	117	25
+	+	118	22
+	+	121	21
+	+	122	53
+	+	121	55
+	+	123	0
+	+	124	0
+	+	124	27
+	+	132	58
+	+	144	27
+	+	139	0
+	+	143	28
+	+	46	0
+	+	10	0
+	+	45	20
+	+	46	23
+	+	30	28
+	+	29	19
+	+	30	28
+	+	105	7
+	+	121	38
+	+	122	36
+	+	128	0
+	+	79	22
+	+	80	3
+	+	91	0
+	+	105	11
+	+	114	34
+	+	113	26
+	+	79	31
+	+	93	7
+	+	93	18
+	+	116	0
+	+	93	0
+	+	92	1
+	+	93	7
+	+	101	0
+	+	89	0
+	+	89	19
+	+	89	15
+	+	89	23
+	+	89	7
+	+	90	0
+	+	87	0
+	+	89	0
+	+	88	0
+	+	106	44
+	+	108	0
+	+	34	64
+	+	38	18
+	+	34	63
+	+	38	19
+	+	34	64
+	+	38	18
+	+	87	28
+	+	38	18
+	+	34	64
+	+	40	19
+	+	38	17
+	+	34	78
+	+	38	17
+	+	86	0
+	+	38	18
+	+	34	63
+	+	34	0
+	+	38	18
+	+	38	0
+	+	34	64
+	+	40	0
+	+	41	0
+	+	34	64
+	m	29	29
+
+> ~/nn_assignment/.gitignore
+	*	1522976650	0
+	"	4	4
+	^	4	5
+	.	4	4
+	+	1	1
+	+	3	4
+	+	2	8
+	+	4	4
+
+> ~/.zpreztorc
+	*	1522896871	0
+	"	232	8
+	^	232	9
+	.	232	7
+	+	44	22
+	+	57	23
+	+	69	0
+	+	141	0
+	+	144	0
+	+	44	0
+	+	38	8
+	+	66	46
+	+	144	0
+	+	141	1
+	+	208	0
+	+	211	0
+	+	43	9
+	+	208	1
+	+	211	1
+	+	27	0
+	+	44	0
+	+	229	2
+	+	231	45
+	+	44	0
+	+	232	17
+	+	40	9
+	+	42	23
+	+	42	20
+	+	64	46
+	+	191	0
+	+	194	0
+	+	230	20
+	+	231	6
+	+	230	6
+	+	232	15
+	+	231	7
+	+	232	27
+	+	235	22
+	+	41	0
+	+	235	0
+	+	231	8
+	+	232	7
+
+> ~/GoogleDrive/holiday
+	*	1522836759	0
+	"	1	0
+
+> ~/.zpreztorc~
+	*	1522835966	0
+	"	235	22
+	^	235	23
+	.	235	22
+	+	136	0
+	+	139	0
+	+	235	22
+
+> ~/afl-mod/docs/technical_details.txt
+	*	1522831805	0
+	"	119	0
+
+> ~/bitmap_plot/NERD_tree_1
+	*	1522831765	0
+	"	20	0
+	.	1	0
+	+	1	0
 
 > ~/afl-mod/afl-fuzz.c
-	*	1522286673	0
-	"	3113	0
+	*	1522817512	0
+	"	4671	2
 	^	3113	0
 	.	3113	0
 	+	3162	1
@@ -777,1146 +1810,73 @@ $
 	+	3114	0
 	+	3113	0
 
-> ~/afl-mod/run-afl
-	*	1522286596	0
-	"	71	0
-	^	72	1
-	.	71	0
-	+	53	11
-	+	56	10
-	+	50	32
-	+	53	0
-	+	68	17
-	+	69	77
-	+	56	17
-	+	47	33
-	+	19	42
-	+	27	9
-	+	35	8
-	+	39	8
-	+	3	48
-	+	2	0
-	+	3	0
-	+	2	48
-	+	4	0
-	+	46	0
-	+	48	0
-	+	21	0
-	+	23	0
-	+	26	0
-	+	28	0
-	+	34	0
-	+	36	0
-	+	33	0
-	+	30	25
-	+	31	0
-	+	32	0
-	+	33	0
-	+	31	25
-	+	32	22
-	+	33	25
-	+	29	0
-	+	58	0
-	+	57	0
-	+	37	0
-	+	68	54
-	+	54	5
-	+	55	5
-	+	56	5
-	+	47	37
-	+	46	49
-	+	48	48
-	+	36	48
-	+	34	48
-	+	28	48
-	+	26	48
-	+	23	48
-	+	21	48
-	+	19	0
-	+	18	79
-	+	17	0
-	+	2	49
-	+	4	48
-	+	52	31
-	+	22	8
-	+	27	8
-	+	35	8
-	+	39	0
-	+	38	36
-	+	47	8
-	+	46	9
-	+	48	8
-	+	36	8
-	+	34	8
-	+	28	8
-	+	26	8
-	+	23	8
-	+	21	9
-	+	28	8
-	+	36	8
-	+	48	8
-	+	63	0
-	+	62	0
-	+	64	21
-	+	68	134
-	+	68	0
-	+	67	0
-	+	64	14
-	+	67	93
-	+	67	0
-	+	65	0
-	+	69	0
-	+	70	0
-	+	71	0
-	+	69	113
-	+	70	48
-	+	71	113
-	+	69	94
-	+	70	89
-	+	71	94
-	+	68	136
-	+	69	133
-	+	70	123
-	+	71	132
-	+	33	0
-	+	56	0
-	+	71	0
-	a	50	0
-
-> ~/afl-mod/afl-fuzz
-	*	1522284583	0
+> ~/afl-mod/targets/binutils-2.25/binutils/gmon.out
+	*	1522801943	0
 	"	1	0
 
-> ~/afl_out/readelf/fuzz_bitmaps/afl-fuzz.c
-	*	1522279767	0
-	"	1	0
-
-> ~/afl-mod/.gitignore
-	*	1522276910	0
-	"	1	8
-	^	7	15
-	.	7	14
-	+	3	1
-	+	1	5
-	+	4	0
-	+	1	8
-	+	2	5
-	+	5	4
-	+	6	0
-	+	4	1
-	+	6	2
-	+	4	0
-	+	6	0
-	+	4	0
-	+	7	14
-
-> ~/afl-mod/README
-	*	1522275898	0
-	"	13	171
-	^	13	172
-	.	13	171
-	+	6	72
-	+	8	0
-	+	9	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	7	0
-	+	9	0
-	+	16	371
-	+	16	257
-	+	16	0
-	+	17	132
-	+	4	3
-	+	19	107
-	+	13	171
-
-> ~/afl-mod/testcases/README.testcases
-	*	1522275041	0
-	"	19	0
-
-> ~/afl-mod/afl-fuzz.xc
-	*	1522231865	0
-	"	1	0
-
-> ~/afl-mod/QuickStartGuide.txt
-	*	1522231227	0
-	"	23	0
-
-> ~/afl-mod/docs/life_pro_tips.txt
-	*	1522231138	0
-	"	1	0
-
-> ~/afl-mod/docs/technical_details.txt
-	*	1522231100	0
-	"	563	0
-
-> ~/afl-mod/Makefile
-	*	1522208677	0
-	"	1	0
-
-> ~/afl-mod/make
-	*	1522206762	0
-	"	1	0
-
-> ~/afl-mod/README.old
-	*	1522206417	0
-	"	22	0
-
-> ~/afl-mod/config.log
-	*	1522206383	0
-	"	1	0
-
-> ~/afl-mod/config.h
-	*	1522206359	0
-	"	90	0
-
-> ~/afl-mod/config.status
-	*	1522206327	0
-	"	36	5
-
-> ~/afl-mod/test_programs/binutils-2.25/gprof/gprof.c
-	*	1521671324	0
-	"	15	9
-
-> ~/afl_out/binutils-2.25/fuzz_bitmaps/000000_0
-	*	1521609656	0
-	"	1	0
-
-> ~/afl_out/binutils-2.25/fuzz_bitmaps/000000_1
-	*	1521609652	0
-	"	1	0
-
-> ~/afl_test_programs/binutils-2.25/config.log
-	*	1521606129	0
-	"	53	0
-
-> ~/afl_test_programs/binutils-2.25/README
-	*	1521605894	0
-	"	1	5
-
-> ~/GoogleDrive/@COMP3630/ass1/u5582907_ass1.md
-	*	1521593655	0
-	"	97	38
-	^	27	36
-	.	97	38
-	+	56	2
-	+	57	2
-	+	58	2
-	+	64	0
-	+	69	16
-	+	78	0
-	+	69	0
-	+	73	0
-	+	76	25
-	+	76	28
-	+	64	0
-	+	65	22
-	+	66	18
-	+	67	17
-	+	68	15
-	+	69	16
-	+	70	14
-	+	71	16
-	+	72	14
-	+	73	14
-	+	74	12
-	+	75	12
-	+	76	28
-	+	76	26
-	+	61	105
-	+	54	14
-	+	55	43
-	+	56	59
-	+	57	41
-	+	58	41
-	+	55	0
-	+	56	0
-	+	57	0
-	+	58	0
-	+	59	0
-	+	65	0
-	+	66	0
-	+	67	0
-	+	68	0
-	+	69	0
-	+	70	0
-	+	71	0
-	+	72	0
-	+	73	0
-	+	74	0
-	+	75	0
-	+	76	0
-	+	64	17
-	+	65	21
-	+	66	18
-	+	67	18
-	+	68	16
-	+	69	17
-	+	70	15
-	+	71	17
-	+	72	15
-	+	73	15
-	+	74	13
-	+	75	13
-	+	76	27
-	+	61	83
-	+	7	259
-	+	9	0
-	+	2	18
-	+	9	0
-	+	78	10
-	+	79	10
-	+	62	3
-	+	62	94
-	+	64	2
-	+	79	0
-	+	82	10
-	+	83	55
-	+	85	47
-	+	85	46
-	+	84	0
-	+	89	11
-	+	87	37
-	+	89	24
-	+	91	174
-	+	91	203
-	+	93	21
-	+	92	1
-	+	97	143
-	+	98	25
-	+	97	166
-	+	98	68
-	+	101	70
-	+	93	22
-	+	97	2
-	+	98	2
-	+	99	0
-	+	100	62
-	+	94	0
-	+	94	127
-	+	94	0
-	+	94	130
-	+	91	164
-	+	96	0
-	+	97	38
-
-> ~/GoogleDrive/@COMP3630/ass1/u5582907_ass1.m
-	*	1521593633	0
-	"	1	0
-
-> ~/GoogleDrive/@COMP4550/angora-thoughts.md
-	*	1521526985	0
-	"	17	0
-	^	17	0
-	.	16	123
-	+	1	47
-	+	4	45
-	+	6	37
-	+	5	73
-	+	8	62
-	+	9	155
-	+	15	113
-	+	16	123
-
-> ~/u5582907_ass1.md
-	*	1521426280	0
-	"	1	0
-
-> ~/GoogleDrive/@COMP4550/week3.md
-	*	1521076456	0
-	"	1	0
-
-> ~/GoogleDrive/@COMP4550/week4.md
-	*	1521068178	0
-	"	6	0
-	^	6	0
-	.	5	145
-	+	1	7
-	+	2	3
-	+	3	0
-	+	4	67
-	+	5	0
-	+	4	60
-	+	5	145
-
-> ~/GoogleDrive/@COMP4550/roadmap.md~
-	*	1521067940	0
-	"	1	7
-	^	1	8
-	.	1	7
-	+	1	7
-
-> /usr/local/lib/afl/afl-fuzz.c
-	*	1521025810	0
-	"	415	0
-	^	173	20
-	.	173	0
-	+	22	0
-	+	23	0
-	+	5649	0
-	+	173	0
-
-> ~/GoogleDrive/@COMP4660/Lab1_code/task3.py
-	*	1520830428	0
-	"	42	2
-	^	179	53
-	.	42	2
-	+	3	0
-	+	1	23
-	+	9	0
-	+	10	16
-	+	11	18
-	+	12	17
-	+	15	0
-	+	16	0
-	+	22	0
-	+	21	0
-	+	58	0
-	+	57	0
-	+	74	0
-	+	85	0
-	+	74	0
-	+	73	0
-	+	84	18
-	+	73	16
-	+	74	17
-	+	75	17
-	+	173	0
-	+	176	0
-	+	178	55
-	+	179	31
-	+	178	52
-	+	179	0
-	+	34	0
-	+	41	0
-	+	39	0
-	+	35	0
-	+	41	15
-	+	42	15
-	+	178	15
-	+	179	15
-	+	41	2
-	+	42	2
-
-> ~/GoogleDrive/@COMP4660/week3/week3.md
-	*	1520827133	0
-	"	14	65
-	^	14	66
-	.	14	66
-	+	2	0
-	+	3	0
-	+	2	56
-	+	5	235
-	+	5	91
-	+	5	468
-	+	8	0
-	+	2	38
-	+	7	0
-	+	4	22
-	+	7	19
-	+	14	66
-
-> ~/GoogleDrive/@COMP4660/week2/week2.md
-	*	1520825240	0
-	"	1	0
-	^	27	117
-	.	27	116
-	+	1	16
-	+	3	239
-	+	1	66
-	+	3	0
-	+	5	0
-	+	4	0
-	+	3	0
-	+	3	383
-	+	15	63
-	+	14	391
-	+	18	130
-	+	17	29
-	+	18	253
-	+	20	32
-	+	26	1
-	+	25	2
-	+	26	44
-	+	27	116
-
-> ~/GoogleDrive/@COMP4660/Lab1_code/task1.py
-	*	1520822597	0
-	"	205	7
-	^	205	16
-	.	205	7
-	+	186	0
-	+	204	0
-	+	203	15
-	+	205	7
-
-> ~/.zshrc
-	*	1520820942	0
-	"	27	31
-	^	27	32
-	.	27	31
-	+	27	31
-
-> ~/.bash_profile-miniconda3.bak
-	*	1520820732	0
-	"	2	0
-
-> ~/GoogleDrive/@COMP4550/roadmap.md
-	*	1520562068	0
-	"	20	43
-	^	19	83
-	.	19	83
-	+	28	24
-	+	24	114
-	+	28	59
-	+	18	136
-	+	20	0
-	+	23	20
-	+	1	20
-	+	2	12
-	+	10	34
-	+	10	78
-	+	26	130
-	+	27	20
-	+	23	14
-	+	33	22
-	+	18	201
-	+	24	0
-	+	28	0
-	+	31	0
-	+	2	4
-	+	24	21
-	+	18	185
-	+	28	93
-	+	25	20
-	+	22	68
-	+	29	20
-	+	19	82
-	+	20	94
-	+	25	71
-	+	20	82
-	+	9	1
-	+	10	34
-	+	18	0
-	+	11	25
-	+	21	30
-	+	17	0
-	+	6	0
-	+	5	32
-	+	4	1
-	+	9	29
-	+	10	0
-	+	9	41
-	+	10	37
-	+	11	27
-	+	12	31
-	+	13	16
-	+	8	0
-	+	4	17
-	+	7	7
-	+	15	0
-	+	17	18
-	+	16	2
-	+	1	1
-	+	20	0
-	+	24	0
-	+	28	0
-	+	31	0
-	+	20	101
-	+	19	83
-	m	31	11
-
-> ~/.zpreztorc~
-	*	1520561603	0
-	"	109	0
-	^	139	1
-	.	139	0
-	+	136	0
-	+	139	0
-
-> ~/addTwo.hs
-	*	1520561154	0
-	"	2	17
-	^	2	18
-	.	2	17
-	+	2	17
-
-> /usr/local/lib/afl/afl-as.h
-	*	1520555167	0
-	"	367	0
-
-> /usr/local/lib/afl/as.c
-	*	1520555090	0
-	"	1	0
-
-> /usr/local/lib/afl/as
-	*	1520555086	0
-	"	1	0
-
-> /usr/local/lib/afl/afl-fuzz
-	*	1520555047	0
-	"	1	0
-
-> ~/GoogleDrive/@COMP4550/fuzzing-setup.md
-	*	1520385570	0
-	"	5	13
-	^	5	14
-	.	5	13
-	+	5	13
-
-> ~/answers
-	*	1520154588	0
-	"	1	10
-	.	1	9
-	+	1	9
-
-> ~/GoogleDrive/@COMP3630/week2/week2.md
-	*	1519903897	0
-	"	4	135
-	^	4	136
-	.	4	135
-	+	2	37
-	+	3	0
-	+	3	1
-	+	3	0
-	+	4	66
-	+	4	135
-
-> ~/GoogleDrive/@COMP3630/week1/week1.md
-	*	1519903871	0
-	"	1	0
-	^	30	33
-	.	1	0
-	+	18	126
-	+	20	5
-	+	20	0
-	+	13	0
-	+	20	6
-	+	22	213
-	+	26	2
-	+	5	0
-	+	5	64
-	+	9	5
-	+	8	6
-	+	8	0
-	+	9	0
-	+	8	0
-	+	7	1
-	+	8	1
-	+	9	1
-	+	10	1
-	+	11	1
-	+	28	51
-	+	30	32
-	+	1	0
-
-> ~/GoogleDrive/@COMP4550/afl-details/afl-process.md
-	*	1519887335	0
-	"	20	72
-	^	20	91
-	.	20	82
-	+	14	78
-	+	17	33
-	+	14	40
-	+	14	56
-	+	15	43
-	+	16	110
-	+	17	55
-	+	18	48
-	+	20	82
-
-> /usr/local/lib/afl/afl-as.c
-	*	1519857344	0
-	"	549	0
-
-> ~/GoogleDrive/@COMP4660/week1.md
-	*	1519278988	0
-	"	1	0
-	^	77	68
-	.	77	67
-	+	16	28
-	+	12	2
-	+	8	2
-	+	3	2
-	+	1	17
-	+	1	18
-	+	16	26
-	+	29	0
-	+	16	45
-	+	19	0
-	+	22	31
-	+	25	50
-	+	30	133
-	+	31	79
-	+	46	190
-	+	14	42
-	+	35	22
-	+	34	0
-	+	54	52
-	+	61	36
-	+	72	8
-	+	77	67
-
-> ~/afl/afl-fuzz.c
-	*	1519259622	0
-	"	113	0
-
-> ~/afl/afl-gcc.c
-	*	1519259588	0
-	"	38	0
-	.	120	0
-	+	121	0
-	+	120	0
-
-> ~/afl/afl-gcc
-	*	1519259401	0
-	"	1	0
-
-> ~/afl/QuickStartGuide.txt
-	*	1519201773	0
-	"	10	0
-
-> ~/.zpreztorc
-	*	1519030635	0
-	"	228	0
-	^	229	18
-	.	229	17
-	+	40	22
-	+	53	23
-	+	65	0
-	+	137	0
-	+	140	0
-	+	40	0
-	+	38	8
-	+	62	46
-	+	140	0
-	+	137	1
-	+	204	0
-	+	207	0
-	+	39	9
-	+	204	1
-	+	207	1
-	+	27	0
-	+	40	0
-	+	226	2
-	+	228	45
-	+	40	0
-	+	229	17
-
-> ~/GoogleDrive/@COMP4550/research/learn-fuzz/summary.md
-	*	1518567416	0
-	"	10	0
-	.	11	0
-	+	11	114
-	+	11	0
-
-> ~/GoogleDrive/@COMP4550/research/ideas.md
-	*	1518567415	0
-	"	3	88
-	^	3	89
-	.	3	88
-	+	1	65
-	+	4	2
-	+	2	94
-	+	1	2
-	+	4	105
-	+	13	0
-	+	11	32
-	+	10	22
-	+	11	16
-	+	12	54
-	+	11	31
-	+	12	21
-	+	3	88
-
-> ~/GoogleDrive/@COMP4550/research/reinit-neural-models/summary.md
-	*	1518565580	0
-	"	8	120
-	^	8	121
-	.	8	120
-	+	4	32
-	+	3	1
-	+	6	114
-	+	7	94
-	+	8	120
-
-> ~/GoogleDrive/@COMP4550/research/neural-byte-sieve/summary.md
-	*	1518564281	0
-	"	9	99
-	^	9	100
-	.	9	99
-	+	6	198
-	+	6	92
-	+	7	97
-	+	8	10
-	+	9	99
-
-> ~/GoogleDrive/@COMP4550/research/directed-greybox/summary.md
-	*	1518563818	0
-	"	8	32
-	^	8	111
-	.	8	32
-	+	5	0
-	+	8	32
-
-> ~/GoogleDrive/@COMP4550/research/accel-test-cases/summary.md
-	*	1518563076	0
-	"	9	92
-	^	9	93
-	.	9	92
-	+	6	102
-	+	6	103
-	+	9	92
-
-> ~/GoogleDrive/@COMP4550/research/accel-test-cases/summary.txt
-	*	1518562598	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
-
-> ~/GoogleDrive/Work/career/examples.txt
-	*	1517877810	0
-	"	8	0
-	^	14	27
-	.	14	26
-	+	13	26
-	+	2	28
-	+	5	16
-	+	8	40
-	+	9	0
-	+	11	36
-	+	12	0
-	+	14	26
-
-> ~/.zcompdump
-	*	1517709489	0
-	"	1	0
-
-> ~/.zcompdum
-	*	1517709477	0
-	"	1	0
-
-> ~/.kube/config
-	*	1517709322	0
-	"	1	0
-
-> ~/.boto
-	*	1517709186	0
-	"	45	0
-
-> ~/.bash_history
-	*	1517709171	0
-	"	193	0
-
-> ~/.vim/this.py
-	*	1517709039	0
-	"	1	19
-	^	1	20
-	.	1	20
-	+	1	20
-
-> /usr/share/vim/vim80/doc/autocmd.txt
-	*	1517708794	0
-	"	164	62
-
-> /usr/share/vim/vim80/doc/change.txt
-	*	1517708586	0
-	"	1415	0
-
-> /usr/share/vim/vim80/doc/help.txt
-	*	1517708522	0
-	"	35	0
-
-> ~/pub-crawler/README.md
-	*	1510313509	0
-	"	15	85
-	^	15	86
-	.	15	85
-	+	4	77
-	+	1	0
-	+	2	13
-	+	4	52
-	+	10	128
-	+	6	30
-	+	7	30
-	+	10	254
-	+	15	85
-
-> ~/get_not_bitly.py
-	*	1509073883	0
-	"	40	0
-	^	32	29
-	.	32	28
-	+	17	52
-	+	20	0
-	+	31	0
-	+	25	42
-	+	25	0
-	+	28	28
-	+	31	0
-	+	31	6
-	+	24	10
-	+	25	17
-	+	24	11
-	+	25	24
-	+	31	17
-	+	28	21
-	+	31	9
-	+	25	4
-	+	28	32
-	+	29	14
-	+	24	45
-	+	19	39
-	+	29	17
-	+	31	11
-	+	29	8
-	+	31	29
-	+	31	14
-	+	31	20
-	+	29	31
-	+	31	25
-	+	30	15
-	+	29	36
-	+	31	0
-	+	29	31
-	+	31	0
-	+	30	0
-	+	26	16
-	+	27	19
-	+	28	3
-	+	29	3
-	+	30	3
-	+	31	51
-	+	31	8
-	+	37	19
-	+	37	23
-	+	22	0
-	+	21	28
-	+	26	19
-	+	37	24
-	+	21	49
-	+	31	56
-	+	29	33
-	+	31	51
-	+	30	19
-	+	31	0
-	+	37	0
-	+	30	0
-	+	31	0
-	+	30	4
-	+	31	0
-	+	31	43
-	+	32	0
-	+	37	0
-	+	32	135
-	+	37	0
-	+	32	10
-	+	33	8
-	+	37	0
-	+	33	0
-	+	37	8
-	+	41	4
-	+	30	0
-	+	34	0
-	+	34	7
-	+	31	0
-	+	30	4
-	+	36	40
-	+	32	35
-	+	32	138
-	+	32	25
-	+	11	20
-	+	14	0
-	+	1	0
-	+	14	0
-	+	12	0
-	+	16	0
-	+	8	29
-	+	8	3
-	+	11	23
-	+	10	23
-	+	5	7
-	+	2	10
-	+	10	62
-	+	5	7
-	+	2	9
-	+	30	47
-	+	36	22
-	+	11	27
-	+	38	0
-	+	39	16
-	+	39	168
-	+	32	28
-
-> ~/GoogleDrive/,COMP3600/assignment_2/assignment_2.md
-	*	1508997261	0
-	"	285	38
-	^	285	39
-	.	285	38
-	+	251	1
-	+	275	1
-	+	266	0
-	+	275	0
-	+	251	0
-	+	288	0
-	+	269	0
-	+	287	0
-	+	283	4
-	+	253	25
-	+	265	0
-	+	267	35
-	+	270	244
-	+	273	26
-	+	276	0
-	+	278	18
-	+	281	38
-	+	287	0
-	+	265	1
-	+	265	147
-	+	265	128
-	+	265	0
-	+	265	147
-	+	284	71
-	+	265	0
-	+	255	1
-	+	263	147
-	+	5	0
-	+	7	0
-	+	249	2
-	+	7	0
-	+	8	199
-	+	7	1
-	+	249	0
-	+	7	0
-	+	6	0
-	+	6	13
-	+	6	0
-	+	20	0
-	+	7	0
-	+	255	0
-	+	263	146
-	+	255	0
-	+	263	0
-	+	256	1
-	+	255	1
-	+	257	78
-	+	258	1
-	+	259	78
-	+	260	0
-	+	261	78
-	+	262	0
-	+	263	78
-	+	264	0
-	+	285	38
-
-> ~/GoogleDrive/,COMP3600/assignment_2/mst.c
-	*	1508988943	0
-	"	186	57
-	^	186	60
-	.	186	57
-	+	146	37
-	+	136	14
-	+	148	44
-	+	140	36
-	+	111	27
-	+	144	14
-	+	146	21
-	+	111	38
-	+	116	0
-	+	111	34
-	+	113	2
-	+	112	6
-	+	113	18
-	+	113	20
-	+	114	9
-	+	113	3
-	+	115	0
-	+	136	22
-	+	143	0
-	+	119	1
-	+	119	0
-	+	118	7
-	+	124	16
-	+	132	0
-	+	143	0
-	+	167	24
-	+	125	0
-	+	117	39
-	+	167	26
-	+	111	40
-	+	145	16
-	+	147	29
-	+	65	34
-	+	139	19
-	+	147	23
-	+	145	20
-	+	143	6
-	+	136	0
-	+	133	16
-	+	143	0
-	+	167	41
-	+	114	29
-	+	167	0
-	+	113	6
-	+	113	0
-	+	186	35
-	+	113	0
-	+	113	26
-	+	114	25
-	+	113	61
-	+	112	0
-	+	113	2
-	+	114	0
-	+	115	0
-	+	114	0
-	+	110	64
-	+	112	0
-	+	113	0
-	+	112	27
-	+	167	0
-	+	149	1
-	+	174	0
-	+	173	0
-	+	31	10
-	+	32	12
-	+	141	33
-	+	32	9
-	+	34	14
-	+	150	0
-	+	151	0
-	+	168	0
-	+	158	0
-	+	159	0
-	+	166	0
-	+	151	0
-	+	159	0
-	+	151	18
-	+	159	16
-	+	175	2
-	+	175	0
-	+	176	0
-	+	177	11
-	+	176	11
-	+	175	11
-	+	175	0
-	+	186	157
-	+	186	0
-	+	187	0
-	+	186	29
-	+	186	49
-	+	186	92
-	+	186	30
-	+	186	29
-	+	186	0
-	+	186	189
-	+	187	0
-	+	186	0
-	+	186	57
+> ~/afl-mod/targets/binutils-2.25/Makefile
+	*	1522801446	0
+	"	508	21
+	^	507	22
+	.	507	21
+	+	318	28
+	+	319	30
+	+	499	26
+	+	500	27
+	+	499	29
+	+	500	31
+	+	507	21
+
+> ~/afl-mod/targets/binutils-2.25/makefile
+	*	1522800390	0
+	"	490	47
+	^	500	32
+	.	500	31
+	+	318	0
+	+	383	18
+	+	386	20
+	+	383	15
+	+	386	16
+	+	499	29
+	+	500	31
+
+> ~/afl-mod/targets/binutils-2.25/binutils/size.c
+	*	1522799123	0
+	"	38	18
+	^	38	19
+	.	38	18
+	+	131	1
+	+	142	0
+	+	121	25
+	+	38	18
+
+> ~/afl-mod/targets/binutils-2.25/binutils/strings.c
+	*	1522799107	0
+	"	76	18
+	^	76	19
+	.	76	18
+	+	174	33
+	+	162	1
+	+	152	25
+	+	76	18
+
+> ~/afl-mod/targets/binutils-2.25/binutils/readelf.c
+	*	1522799066	0
+	"	162	0
+	^	162	0
+	.	162	0
+	+	15408	1
+	+	15414	33
+	+	165	19
+	+	162	0
+
+> ~/afl-mod/targets/binutils-2.25/binutils/Makefile
+	*	1522796803	0
+	"	116	16
 
 > ~/.vimrc
-	"	125	8
+	*	1522624240	0
+	"	1	0
 	^	125	9
 	.	125	8
 	+	2	0
@@ -1935,119 +1895,115 @@ $
 	+	126	0
 	+	125	8
 
-> /usr/share/vim/vim74/doc/insert.txt
-	"	1013	7
-
-> ~/GoogleDrive/,COMP3600/assignment_2/results.txt
-	"	1	0
-	.	2	0
+> ~/GoogleDrive/@COMP4660/lab2/lab2_code/dataset/glass/glass_binary.csv
+	*	1522623776	0
+	"	3	46
+	^	214	51
+	.	214	50
 	+	1	0
 	+	2	0
+	+	214	0
+	+	1	50
+	+	164	50
+	+	214	50
 
-> ~/crystal/bin/crystal.py
-	"	106	131
-	^	106	132
-	.	106	132
-	+	64	0
-	+	66	0
-	+	61	0
-	+	67	153
-	+	35	0
-	+	31	0
-	+	60	0
-	+	54	0
-	+	75	0
-	+	60	0
-	+	21	14
-	+	105	105
-	+	75	0
-	+	69	0
-	+	71	0
-	+	72	0
-	+	105	0
-	+	72	0
-	+	105	69
-	+	70	33
-	+	105	116
-	+	105	0
-	+	105	69
-	+	72	52
-	+	71	54
-	+	105	0
-	+	105	83
-	+	105	0
-	+	105	117
-	+	104	88
-	+	102	15
-	+	104	56
-	+	102	45
-	+	104	18
-	+	104	65
-	+	103	0
-	+	102	0
-	+	75	101
-	+	86	51
-	+	104	0
-	+	103	55
-	+	106	107
-	+	106	132
+> ~/.zprofile
+	*	1522617979	0
+	"	47	23
+	^	47	24
+	.	47	23
+	+	47	23
 
-> ~/t
+> ~/GoogleDrive/@COMP4660/lab2/lab2_code/NERD_tree_1
+	*	1522616885	0
+	"	8	0
+	.	1	0
+	+	1	0
+
+> ~/GoogleDrive/@COMP4660/lab2/lab2_code/task1py
+	*	1522616763	0
+	"	5	6
+	^	5	7
+	.	5	6
+	+	5	6
+
+> ~/GoogleDrive/@COMP4660/lab2/lab2_code/pytorch_basics.py
+	*	1522616611	0
+	"	118	17
+
+> ~/GoogleDrive/@COMP4660/holiday_plan
+	*	1522397717	0
 	"	1	0
 
-> ~/GoogleDrive/,COMP3600/assignment_2/]
-	"	168	0
-
-> ~/GoogleDrive/,COMP3600/assignment_2/mst.txt
-	"	79	0
-
-> ~/GoogleDrive/,COMP3600/labs/linear_select.c
+> ~/GoogleDrive/@COMP4660/hol
+	*	1522397711	0
 	"	1	0
 
-> ~/GoogleDrive/,COMP3600/labs/Insertion.java
-	"	97	0
+> ~/.vim/colors/gruvbox.vim
+	*	1522391260	0
+	"	1	0
+	^	673	72
+	.	673	71
+	+	673	71
 
-> ~/GoogleDrive/,COMP3600/labs/Merge.java
+> ~/afl-mod/afl-fuzz
+	*	1522390847	0
 	"	1	0
 
-> ~/GoogleDrive/,COMP3600/labs/Sort.java
-	"	50	0
+> ~/.vim/NERD_tree_4
+	*	1522388731	0
+	"	7	0
+	.	1	0
+	+	1	0
 
-> ~/crystal/bin/reattach.py
-	"	29	4
-	^	24	16
-	.	24	15
-	+	18	24
-	+	18	24
-	+	13	0
-	+	31	99
-	+	37	5
-	+	33	5
-	+	34	5
-	+	35	5
-	+	38	5
-	+	39	5
-	+	40	5
-	+	31	0
-	+	42	35
-	+	27	51
-	+	28	59
-	+	52	89
-	+	53	0
-	+	52	122
-	+	27	52
-	+	17	72
-	+	27	87
-	+	29	0
-	+	28	108
-	+	42	26
-	+	29	11
-	+	42	0
-	+	29	0
-	+	46	28
-	+	21	35
-	+	21	0
-	+	21	4
-	+	22	4
-	+	23	16
-	+	24	15
+> ~/.vim/.vimrc
+	*	1522387975	0
+	"	1	0
+
+> ~/.gitignore
+	*	1522386565	0
+	"	4	0
+	^	10	10
+	.	4	0
+	+	4	6
+	+	7	9
+	+	9	10
+	+	10	9
+	+	11	10
+	+	12	0
+	+	10	9
+	+	4	0
+
+> ~/.gitconfig
+	*	1522386363	0
+	"	1	0
+
+> ~/.bash_profile
+	*	1522386316	0
+	"	1	0
+
+> ~/todo
+	*	1522386205	0
+	"	1	0
+	^	6	21
+	.	6	20
+	+	6	0
+	+	3	1
+	+	4	0
+	+	5	0
+	+	4	2
+	+	5	1
+	+	3	1
+	+	6	20
+
+> ~/.zlogin
+	*	1522385647	0
+	"	23	0
+
+> ~/.zshenv
+	*	1522385630	0
+	"	1	0
+
+> ~/.viminfo
+	*	1522385534	0
+	"	282	0

@@ -5,6 +5,12 @@
 " allow backspacing over everything in insert mode
 set backspace=indent,eol,start
 
+"Start plugin manager
+execute pathogen#infect()
+"Commands for plugins at startup
+"NERDTree
+map <C-n> :NERDTreeToggle<CR>
+
 if has("vms")
   set nobackup		" do not keep a backup file, use versions instead
 else
@@ -13,7 +19,8 @@ else
 endif
 
 set history=50		" keep 50 lines of command line history
-set ruler		" show the cursor position all the time
+set ruler
+" show the cursor position all the time
 set showcmd		" display incomplete commands
 set incsearch		" do incremental searching
 
@@ -32,6 +39,7 @@ endif
 
 " always set autoindenting on
 set autoindent		
+set smartindent
 
 "Set pretty colours
 colorscheme gruvbox
@@ -51,3 +59,13 @@ nnoremap K gT
 
 "I enters insert at start of line
 nmap I 0i
+
+filetype plugin indent on
+" show existing tab with 4 spaces width
+set tabstop=4
+" when indenting with '>', use 4 spaces width
+set shiftwidth=4
+" On pressing tab, insert 4 spaces
+set expandtab
+" turn on autoindenting
+set ai
